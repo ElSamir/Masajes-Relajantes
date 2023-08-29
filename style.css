@@ -195,9 +195,11 @@ td,th{
     margin: 0 20px 20px 0;
 }
 
-.mapa{
+.mapa1{
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888)
+    display: flex;
+    flex-direction: center;
+justify-content:center;
 }
 
 .mapa p{
@@ -206,7 +208,7 @@ td,th{
 }
 
 .mapa-contenido{
-    width: 940px;
+    width: 1000px;
     margin: 0 auto;
 }
 
